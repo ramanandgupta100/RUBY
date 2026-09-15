@@ -1,0 +1,16 @@
+# Table of contents
+
+* [💎 RUBY](README.md)
+* [💎RUBY Installation](ruby-installation.md)
+* [💎RUBY 1st Program](ruby-1st-program.md)
+* [PACKAGE MANAGER](package-manager.md)
+* [Comments](comments.md)
+* [puts](puts.md)
+* [print](print.md)
+* [How to take input from User ?](how-to-take-input-from-user.md)
+* [Variables](variables.md)
+* [Data Types](data-types.md)
+* [Functions](functions.md)
+* [Operators](operators.md)
+* [IF ELSE Statements](if-else-statements.md)
+* [SWITCH CASE](switch-case.md)
